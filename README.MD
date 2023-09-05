@@ -22,9 +22,12 @@ Aug 2017 - July 2021
 ---
 
 ## Skills
-**Technical Proficiencies:** Apache Spark, Scikit-learn, Hadoop, Github, AWS, Tableau, Pandas, Seaborn, MATLAB, AutoCAD, SolidWork.  
-**Languages:** Python, SQL, Java, XML, C, C++. 
-**Key Competencies:** Model building, Data analysis, Data ethics, Regression algorithms, Visualization techniques, Big data, Exploratory Data analysis
+**Languages:** Python, SQL, Java, XML, C, C++
+**Technical proficiencies:** Apache Spark, Scikit-learn, Hadoop, Github, AWS, Tableau, Pandas, Seaborn, MATLAB,
+AutoCAD, SolidWork
+**Key Competencies:** Model building, Data analysis, Data ethics, Regression algorithms, Visualization techniques, Big
+data, Exploratory Data analysis
+
 ---
 
 ## Experience
