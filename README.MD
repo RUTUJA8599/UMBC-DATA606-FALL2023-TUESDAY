@@ -5,18 +5,10 @@
 :iphone: +1(443) 941-5143 
 📧 rutujakarad8599@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rutuja-karad/)  
-office: Baltimore, Maryland 
+:office: Baltimore, Maryland 
 
 ---
 
-## Skills
-**Technical Proficiencies:** Apache Spark, Scikit-learn, Hadoop, Github, AWS, Tableau, Pandas, Seaborn, MATLAB,
-                             AutoCAD, SolidWork.  
-**Languages:** Python, SQL, Java, XML, C, C++
-**Key Competencies:** Model building, Data analysis, Data ethics, Regression algorithms, Visualization techniques, Big
-                      data, Exploratory Data analysis
-
----
 ## Education
 **Master of Data Science**  
 *[University of Maryland, Baltimore County (UMBC)]*  
@@ -26,6 +18,15 @@ office: Baltimore, Maryland
 *[Cummins College of Engineering, Pune]*  
 *GPA: 3.5/4.0*  
 Aug 2017 - July 2021  
+
+---
+
+## Skills
+**Technical Proficiencies:** Apache Spark, Scikit-learn, Hadoop, Github, AWS, Tableau, Pandas, Seaborn, MATLAB,
+                             AutoCAD, SolidWork.  
+**Languages:** Python, SQL, Java, XML, C, C++
+**Key Competencies:** Model building, Data analysis, Data ethics, Regression algorithms, Visualization techniques, Big
+                      data, Exploratory Data analysis
 
 ---
 
@@ -52,47 +53,57 @@ Jan 2022 - Jun 2022
 - Analyased the data and generated reports.
 - Assisted in installation of oxygen concentrated plants during COVID-19 Pandemic.
 
-**Embedded Systems Engineer Intern**  
-*[Episodic Labs PVT LTD, Ahmedabad, India](https://www.bemrr.com/)*  
-Feb 2021 - Aug 2021  
-- Integrated 2 camera modules with a RaspberryPi 4 & Compute Module I/O board to achieve best shot with proper focus and framerates.
-- Engineered motion-enabled sensors and sports action cameras to automatically trigger the camera and capture 10 seconds of motion while playing a stroke to track and evaluate batsmen’s performance.
-
 ---
 
 ## Projects  
-**Smart Dresser** - [GitHub](https://github.com/Ommakwana/SmartDresser)  
-- It is an AI-powered outfit selector designed to make shopping experience faster, easier, and safer.
-- Integrated different technologies, including machine learning, image processing, and body posture detection, to provide personalised outfit recommendations based on user preferences and body type.
-
-**Svadeshi** - [GitHub](https://github.com/HarshShroff/Svadeshi)
-- Gathered the dataset from two ancient scriptures namely Shrimad Bhagwat Gita and Ramayana to train the model.
-- English-to-Sanskrit and vice versa translation tool with 79.8% accuracy built using NLP to preserve the Sanskrit language because Sanskrit speakers are fewer and further between these days.
-
-
-**Dr Tongue** - [GitHub](https://github.com/HarshShroff/Dr_Tongue)
-- Web application, ranked 4th at a state level Ideathon, designed for tongue diagnosis based on ML model trained using python and integrated with a website.
-- Neural network model achieved training accuracy of 80% and testing accuracy of 76% with a small dataset.
+**Robotic Arm Manipulation with reinforcement learning** 
+- The robotic arm was designed and simulated with the help of a Robot Operating System and then all the electronic
+hardware components were integrated.
+- Performed simulation of the robotic arm by giving three degrees of freedom using OpenAI gym and python to code for
+movements of the robotic arm.
+- Analysis of the generated code was conducted on Raspberry Pi to check whether the code was working or not.
+- Experimented and checked the movement of the robotic arm.
 
 
-**WhatsApp Chat Analyzer** - [GitHub](https://github.com/HarshShroff/WhatsApp-Chat-Analyzer)
-- Developed a web-app in Python with the help of Streamlit to analyze and visualize WhatsApp chats.
-- Displayed graphs of most active users, most used words, most used emojis, and activity time of each user.
+**Sentiment Classification of Online Reviews** - [GitHub](https://github.com/RUTUJAK1/Sentiment-Classification/blob/main/Sentiment_classification.ipynb)
+- Performed data cleaning, lemmatization, and tokenization
+- Removed stopwords from the dataset
+- Utilized the processed data for sentiment classification
+- Employed linear regression, Gaussian Naive Bayes, and K-Nearest Neighbors algorithms for sentiment classification
 
 
-**Cyclists’ Dashboard** - [GitHub](https://github.com/HarshShroff/Dash4Athletes)
-- Dashboard coded in Python with Dash module to enable cyclists with performance analysis.
-- Coded to help cyclists to analyze main three aspects of the rides namely, average, and maximum speed,  distance, and elevation to improve cycling skills.
-- It also displays a map of the path taken while riding and analyses of the rides on a monthly and annual basis. 
+**Walmart Sales Analysis** - [GitHub](https://github.com/RUTUJAK1/WalmartEDA/blob/main/Walmartproject.ipynb)
+- Conducted exploratory data analysis (EDA) on a dataset of Walmart sales data.
+- Performed cleaning, wrangling, and preprocessing of data by using the Python and Pandas.
+- Identified trends and patterns in the data.
+- Performed hypothesis testing.
+- Developed insights into how Walmart can improve its sales.
 
+
+**Predict the Likelihood of Divorce using multiple Machine learning Algorithms** - [GitHub](https://github.com/RUTUJAK1/Divorce_multiple_algorithms/blob/main/Divorce_Prediction.ipynb)
+- Built a machine learning model to predict the likelihood of divorce using a dataset of over 100,000 divorce cases.
+- Implemented multiple machine learning algorithms, including logistic regression, decision trees, and random forests.
+- Evaluated the performance of the machine learning models using accuracy, precision, recall, and F1 score.
+- Achieved an accuracy of 85% with the logistic regression model.
 
 ---
 
-## Achievements
-- Published a research paper on “Mosquito Species Identification from its Wing Beats on a TinyML Device” with 17 other papers from 10 countries at Kaleidoscope 2021 conference hosted by the International Telecommunication  Union (ITU) *[IEEE Explore](https://ieeexplore.ieee.org/document/9662116)*.
-- Ranked 1st at an international hackathon organized by the ITU and The Telecommunications and Digital Government Regulatory  Authority  of  United  Arab  Emirates  (TDRA) *[News Article](https://ahmedabadmirror.com/city-engg-student-tops-in-hackathon/81819197.html)*.
-- Presented a talk to 10 teams and guest speakers on “Design of a Python-based Dashboard to Assist Athletes in Analyzing and Enhancing Performances” at the SciPy India 2021 conference *[YouTube Video](https://www.youtube.com/watch?v=gvnl0ZfR4DM&ab_channel=KiranTrivedi)*.
-- Featured in a renowned newspaper, Ahmedabad Mirror for the project *[Smart Dresser: an AI based Outfit Selector](https://ahmedabadmirror.com/covid-innovation-by-vgec-students/81801558.html)*.
+## Extra-Curricular Work
+*[Summer Day camp Counsellor at UMBC (2023)]* 
+Jun 2023 - Aug 2023
+*[Cashier & Food Service Worker at UMBC]* 
+Feb 2023 - May 2023
+*[Event Coordinator, Cyclothon(Innovation)]* 
+Jan 2019
+*[Cultural Secretary while completing undergraduate studies]*
+Aug 2018 - May 2020
+*[Volunteered for oxygen concentration plant setup]*
+May 2020 - Aug 2020
+- Assisted in installation of the oxygen concentrated plants during Covid-19 in the state of Maharashtra(India).
+*[Student Member for American Society of Mechanical Engineers(ASME)]*
+Sep 2017 - Sep 2019
+*[Volunteer and Coordinator for ’Samyak Drishti Foundation’ working for underprivileged girls and women]*
+Jun 2018 - Feb 2020
 
 
 ---
