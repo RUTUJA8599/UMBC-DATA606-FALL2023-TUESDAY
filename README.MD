@@ -32,7 +32,6 @@ data, Exploratory Data analysis
 
 ---
 
-## Experience
 **Product Marketing Executive**  
 *[Sai Non-Conventional Energy, Nasik, India]*  
 Nov 2021 - Jul 2022
