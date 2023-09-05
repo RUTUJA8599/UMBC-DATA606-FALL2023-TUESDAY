@@ -3,7 +3,7 @@
 ![Rutuja Karad](https://github.com/RUTUJA8599/UMBC-DATA606-FALL2023-TUESDAY/blob/main/rutuja.jpg)
 
 :iphone: +1(443) 941-5143 
-📧 rutujakarad8599@gmail.com  
+:email: rutujakarad8599@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rutuja-karad/)  
 :office: Baltimore, Maryland 
 
