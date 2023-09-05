@@ -1,17 +1,11 @@
 # Rutuja Karad
 
-![Rutuja Karad](https://github.com/RUTUJA8599/UMBC-DATA606-FALL2023-TUESDAY/blob/main/DSC_5886.jpg)
+![Rutuja Karad](https://github.com/RUTUJA8599/UMBC-DATA606-FALL2023-TUESDAY/blob/main/rutuja.jpg)
 
-iphone: +1(443) 941-5143 
+:iphone: +1(443) 941-5143 
 📧 rutujakarad8599@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rutuja-karad/)  
 office: Baltimore, Maryland 
-
----
-## About  
-I am a data science graduate student and a research assistant at UMBC, where I develop prototypes on robots from ClearPath Robotics, implement LIDAR and camera interface, and build indoor and outdoor maps. I am also developing teleportable control schemes using hand gestures and hollow lens for Boston Dynamics' Spot robots. I'm utilizing my expertise in Python, AI, and ML to create innovative solutions to complex problems and drive value and insights through data analysis.
-
-I have a bachelor's degree in Electronics and Communication Engineering from Vishwakarma Government Engineering College, GTU. I have also completed several certifications in Python, AI, and ML from IBM. I have published a paper on mosquito recognition using ML and Edge Impulse on a tiny embedded system. I am passionate about learning new technologies, collaborating with diverse teams, and contributing to the advancement of science and engineering.
 
 ---
 
