@@ -90,18 +90,18 @@ movements of the robotic arm.
 
 ## Extra-Curricular Work
 
-# Summer Day camp Counsellor at UMBC (2023)
+### Summer Day camp Counsellor at UMBC (2023)
 Jun 2023 - Aug 2023
-# Event Coordinator, Cyclothon(Innovation)
+### Event Coordinator, Cyclothon(Innovation)
 Jan 2019
-# Cultural Secretary while completing undergraduate studies
+### Cultural Secretary while completing undergraduate studies
 Aug 2018 - May 2020
-# Volunteered for oxygen concentration plant setup
+### Volunteered for oxygen concentration plant setup
 May 2020 - Aug 2020
 - Assisted in installation of the oxygen concentrated plants during Covid-19 in the state of Maharashtra(India).
-# Student Member for American Society of Mechanical Engineers(ASME)
+### Student Member for American Society of Mechanical Engineers(ASME)
 Sep 2017 - Sep 2019
-# Volunteer and Coordinator for ’Samyak Drishti Foundation’ working for underprivileged girls and women
+### Volunteer and Coordinator for ’Samyak Drishti Foundation’ working for underprivileged girls and women
 Jun 2018 - Feb 2020
 
 
